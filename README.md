@@ -1,4 +1,4 @@
-# About this Book
+# Welcome!
 
 This is the public GitHub repo for my book, **Software Containerization with Docker for Developers.** This book is meant to be used with the UC Davis extension online course to be published on Coursera.
 

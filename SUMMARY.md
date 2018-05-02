@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About this Book](README.md)
+* [Welcome!](README.md)
 * Introduction
 * Getting Started
 
