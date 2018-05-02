@@ -1,5 +1,5 @@
 # Table of contents
 
-* [book-docker-for-developers](README.md)
+* [About this Book](README.md)
 * [Sample Page](sample-page.md)
 
