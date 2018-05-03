@@ -2,5 +2,5 @@
 
 * [Welcome!](README.md)
 * Introduction
-* Getting Started
+* [Getting Started](getting-started.md)
 
