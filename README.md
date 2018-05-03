@@ -1,5 +1,7 @@
 # Welcome!
 
+[![Join the chat at https://gitter.im/book-docker-for-developers/Lobby](https://badges.gitter.im/book-docker-for-developers/Lobby.svg)](https://gitter.im/book-docker-for-developers/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the public GitHub repo for my online book, [**Software Containerization with Docker for Developers**](https://books.tonypujals.io/docker/)**.** This book is meant to be used with the UC Davis extension online course to be published on Coursera.
 
 The book, this repo, and associated source code repo \([Voting App for Docker](https://github.com/subfuzion/docker-voting-app-nodejs)\) are all open source and free for any use in compliance with the terms of the [MIT License](https://raw.githubusercontent.com/subfuzion/book-docker-for-developers/master/LICENSE).
