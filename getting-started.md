@@ -16,9 +16,11 @@ Docker is available for a large number of desktop, server, and cloud platforms. 
 
 For this course, we will use the **Community Edition**. It won't matter if you choose to install the latest stable or edge edition, which at the time of this writing are **18.03.1-ce** and **18.05.0-ce-rc1**, respectively. Docker's documentation doesn't always immediately reflect the latest version numbers, but you can always see the latest releases on [GitHub](https://github.com/docker/docker-ce/releases), if you're curious.
 
-Unless you're planning to build Docker from source yourself, the recommended way to install Docker is from the [Docker Store](https://store.docker.com/). You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the home page anyway. The [link](https://store.docker.com/search?offering=community&type=edition) takes you to a page where you can choose the edition you want to use for your environment.
+Unless you're planning to build Docker from source yourself, the recommended way to install Docker is from the [Docker Store](https://store.docker.com/).
 
-For this course, we will assume that you are using either
+{% embed data="{\"url\":\"https://store.docker.com/\",\"type\":\"link\",\"title\":\"Docker Store\",\"icon\":{\"type\":\"icon\",\"url\":\"https://store.docker.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"Use the Docker Store to download Docker Community Edition\"}" %}
+
+You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the home page anyway, which provides you with a [link](https://store.docker.com/search?offering=community&type=edition) that takes you to a page where you can choose the edition you want to use for your particular environment. For this course, we will assume that you are using one of the following:
 
 * [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 * [Docker Community Edition for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows).
@@ -69,6 +71,8 @@ For more examples and ideas, visit:
 Chances are that you may already have a good text editor that you like, such as Atom or Sublime. Perhaps, like me, you are already comfortable with editing using vi \(or vim\), which should be available in just about any terminal environment you find yourself in.
 
 In any case, one editor I can strongly recommend for anyone is [Visual Studio Code](https://code.visualstudio.com/) from Microsoft. It's free and open source, starts up quickly, has an excellent user interface, and also has an active, thriving plugin community. It's nice as a lightweight text editor or as a full-fledged Interactive Development Environment \(IDE\). This has become my editor of choice for Go, Node, and occasional C/C++ programming.
+
+{% embed data="{\"url\":\"https://code.visualstudio.com/\",\"type\":\"link\",\"title\":\"Visual Studio Code - Code Editing. Redefined\",\"description\":\"Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://code.visualstudio.com/favicon.ico\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://code.visualstudio.com/opengraphimg/opengraph-home.png\",\"width\":1223,\"height\":630,\"aspectRatio\":0.5151267375306623},\"caption\":\"Visual Studio Code is an excellent choice for a text editor\"}" %}
 
 Regardless of the editor you choose, the main thing to keep in mind is that a text editor is not the same thing as a word processing application. It won't insert "invisible" characters to provide rich formatting support and it won't add it's own extensions to files you create.
 
