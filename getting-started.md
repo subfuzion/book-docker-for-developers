@@ -14,16 +14,18 @@ We'll discuss each of these in the following sections.
 
 Docker is available for a large number of desktop, server, and cloud platforms. It is packaged as a free [Community Edition](https://www.docker.com/community-edition) \(**CE**\) and a commercially supported [Enterprise Edition](https://www.docker.com/enterprise-edition) \(**EE**\). There is a quarterly **stable** release for reliability and a monthly **edge** release that gives you access to the latest features.
 
-For this course, we will use the **Community Edition**. It won't matter if you choose to install the latest stable or edge edition, which at the time of this writing are **18.03.1-ce** and **18.05.0-ce-rc1**, respectively. Docker's documentation doesn't always immediately reflect the latest version numbers, but you can always see the latest releases on [GitHub](https://github.com/docker/docker-ce/releases), if you're curious.
+For this course, we will use the **Docker Community Edition** and it won't matter if you choose to install the latest stable or edge edition, which at the time of this writing are **18.03.1-ce** and **18.05.0-ce-rc1**, respectively. Docker's documentation doesn't always immediately reflect the latest version numbers, but you can always find the latest releases on [GitHub](https://github.com/docker/docker-ce/releases), if you're curious.
 
 Unless you're planning to build Docker from source yourself, the recommended way to install Docker is from the [Docker Store](https://store.docker.com/).
 
-You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the home page anyway, which provides you with a [link](https://store.docker.com/search?offering=community&type=edition) that takes you to a page where you can choose the edition you want to use for your particular environment. For this course, we will assume that you are using one of the following:
+You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the store's home page anyway. This section provides you with a [link](https://store.docker.com/search?offering=community&type=edition) that takes you to a page where you can choose the edition you want to use for your particular environment. For this course, we will generally assume that you are using one of the following:
 
 * [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
 * [Docker Community Edition for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows).
 
-These are the best ways to work with Docker on a Mac or Windows system. The installation should be smooth and straightforward, especially for newer machines, but if you need documentation for installing, you can follow the links under the _Resources_ tab on the store page.
+These are the best ways to work with Docker on a Mac or Windows system. They both provide an optimized, lightweight Linux environment with excellent performance and integration with the host system, along with a user interface for configuring various Docker Engine options \(integrated with the Mac menubar and the Windows notification area\).
+
+The installation should be smooth and straightforward, especially for newer machines, but if you have any issues, you can follow the links under the _Resources_ tab on the store page for more documentation.
 
 #### Hello from Docker!
 
