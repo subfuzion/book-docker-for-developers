@@ -6,7 +6,7 @@ For this course, you only need to have two things on your computer: **Docker** a
 
 That's it! You won't need to install any other software to be able to run web servers, databases, message queues, or any other Linux applications and services, thanks to Docker and its ecosystem.
 
-For various tasks that will come up in later chapters, you will also need to have accounts on both **Docker Hub** and **GitHub**, if you don't already have them. Docker Hub is used to discover, access and share Docker images over the Internet and, similarly, GitHub is used to share source code, documentation, and issues for software projects.
+For various tasks that will come up in later chapters, you will also need to have online accounts for both **Docker Hub** and **GitHub**, if you don't already have them. Docker Hub is used to discover, access and share Docker images over the Internet and, similarly, GitHub is used to share source code, documentation, and issues for software projects.
 
 We'll discuss each of these in the following sections.
 
