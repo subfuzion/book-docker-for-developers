@@ -12,9 +12,7 @@ Please feel free to reach out to me on Twitter. My account is open to direct mes
 
 Cheers,
 
-Tony Pujals  
-[@tonypujals](https://twitter.com/tonypujals)  
-
-
+Tony Pujals[ \(@tonypujals](https://twitter.com/tonypujals)\)  
+May 1, 2018  
 
 
