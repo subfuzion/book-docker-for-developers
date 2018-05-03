@@ -18,8 +18,6 @@ For this course, we will use the **Community Edition**. It won't matter if you c
 
 Unless you're planning to build Docker from source yourself, the recommended way to install Docker is from the [Docker Store](https://store.docker.com/).
 
-{% embed data="{\"url\":\"https://store.docker.com/\",\"type\":\"link\",\"title\":\"Docker Store\",\"icon\":{\"type\":\"icon\",\"url\":\"https://store.docker.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"Use the Docker Store to download Docker Community Edition\"}" %}
-
 You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the home page anyway, which provides you with a [link](https://store.docker.com/search?offering=community&type=edition) that takes you to a page where you can choose the edition you want to use for your particular environment. For this course, we will assume that you are using one of the following:
 
 * [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
