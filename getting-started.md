@@ -18,16 +18,12 @@ For this course, we will use the **Community Edition**. It won't matter if you c
 
 Unless you're planning to build Docker from source yourself, the recommended way to install Docker is from the [Docker Store](https://store.docker.com/). You can search for Docker at the Docker Store, but the _Get started with Docker_ section is normally prominently displayed right on the home page anyway. The [link](https://store.docker.com/search?offering=community&type=edition) takes you to a page where you can choose the edition you want to use for your environment.
 
-For this course, we will assume that you are using either [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac) or [Docker Community Edition for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows).
+For this course, we will assume that you are using either
 
-{% embed data="{\"url\":\"https://store.docker.com/editions/community/docker-ce-desktop-mac\",\"type\":\"link\",\"title\":\"Docker Store\",\"icon\":{\"type\":\"icon\",\"url\":\"https://store.docker.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"Docker Community Edition for Mac\"}" %}
+* [Docker Community Edition for Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+* [Docker Community Edition for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows).
 
-{% embed data="{\"url\":\"https://store.docker.com/editions/community/docker-ce-desktop-windows\",\"type\":\"link\",\"title\":\"Docker Store\",\"icon\":{\"type\":\"icon\",\"url\":\"https://store.docker.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"Docker Community Edition for Windows\"}" %}
-
-These are the best ways to work with Docker on a Mac or Windows system. The installation should be smooth and straightforward, especially for newer machines, but if you need documentation for installing, you can follow these links:
-
-* [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
-* [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+These are the best ways to work with Docker on a Mac or Windows system. The installation should be smooth and straightforward, especially for newer machines, but if you need documentation for installing, you can follow the links under the _Resources_ tab on the store page.
 
 #### Hello from Docker!
 
