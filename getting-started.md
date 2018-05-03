@@ -74,5 +74,25 @@ In any case, one editor I can strongly recommend for anyone is [Visual Studio Co
 
 Regardless of the editor you choose, the main thing to keep in mind is that a text editor is not the same thing as a word processing application. It won't insert "invisible" characters to provide rich formatting support and it won't add it's own extensions to files you create.
 
+### Get an Account on Docker Hub
+
+[Docker Hub](https://hub.docker.com/) is an online registry for Docker repositories. A Docker repository is where you publish, store, and retrieve different versions of Docker images, which are the basic building blocks for Docker containers.
+
+You can sign up for a free account on Docker Hub. Free accounts can be used for public repositories. Docker Hub also provides commercial plans for private repositories and parallel automated builds. You can explore their billing plans [here](https://hub.docker.com/billing-plans/).
+
+![Sign up for a free account on Docker Hub](.gitbook/assets/dockerhub%20%281%29.jpg)
+
+While not necessary, I recommend creating an account with the same username you use \(or plan to use\) for GitHub.
+
+### Get an Account on GitHub
+
+[GitHub](https://github.com/) is the world's largest online development platform for hosting source code repositories and managing and collaborating on software projects.
+
+If you don't already have an account on GitHub, you can sign up for a free one. Free accounts can be used for public and open source projects, and just like Docker Hub, GitHub provides [commercial plans](https://github.com/pricing) for private repositories, teams, and enterprises.
+
+![Sign up for a free account on GitHub](.gitbook/assets/github.jpg)
+
+As I mentioned in the previous section, I recommend creating an account with the same username as for Docker Hub.
+
 
 
